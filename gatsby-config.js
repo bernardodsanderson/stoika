@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Stoika - Stoic Quote Search`,
+    description: `Stoika allows you to share, search and read Stoic quotes from some of the great minds of Stoicism. Like Marcus Aurelius, Seneca, and Epictetus`,
     author: `@gatsbyjs`,
   },
   plugins: [
